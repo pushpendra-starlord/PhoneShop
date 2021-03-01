@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="hello">Hello.</string>
+    <string name="signup_for_an_account">Signup for an Account</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_a_down_payment_amount">Enter a down payment amount</string>
+    <string name="signup">Signup</string>
+    <string name="results_go_here">results go here</string>
+    <string name="select_a_color">Select a color</string>
+    <string name="select_a_phone">Select a phone</string>
+    <string name="your_account">Your Account</string>
+    <string name="greetings_message">Hello Peter, here is your account info</string>
+    <string name="product_name">Google Pixel 5 in Sorta Sage</string>
+    <string name="product_price">Total Cost: $799</string>
+    <string name="product_down_payment">Based on down payment of $300</string>
+    <string name="product_emi">Your monthly payment is: $41.58</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="phones">
+        <item>Google Pixel 5</item>
+        <item>iPhone 12 Pro Max</item>
+        <item>iPhone 12 Pro</item>
+        <item>iPhone 12</item>
+        <item>iPhone 12 mini</item>
+        <item>Samsung Galaxy S21</item>
+    </string-array>
+
+    <string-array name="pixel_colors">
+        <item>Sorta Sage</item>
+        <item>Just Black</item>
+    </string-array>
+
+    <string-array name="iphone_colors">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="iphone_pro_colors">
+        <item>Pacific Blue</item>
+        <item>Gold</item>
+        <item>Silver</item>
+        <item>Graphite</item>
+    </string-array>
+
+    <string-array name="samsung_colors">
+        <item>Violet</item>
+        <item>Pink</item>
+        <item>Gray</item>
+        <item>White</item>
+    </string-array>
+
+</resources>
